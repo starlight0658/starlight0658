@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/starlight0658/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/starlight0658/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+- [Creating Our Subscription and First Resource](https://github.com/starlight0658/Creating-Our-Subscription-and-First-Resource)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/starlight0658/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/starlight0658/azure-network-protocols)
 

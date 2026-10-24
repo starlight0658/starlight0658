@@ -9,7 +9,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/starlight0658/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket — Prerequisites and Installation (Lab 3)](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) — Azure-hosted Windows help desk deployment using IIS, PHP, MySQL, HeidiSQL, and 51 timestamped evidence screenshots.
+  - [osTicket — Prerequisites and Installation](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) 
   - [osTicket: Post-Installation Configuration](https://github.com/starlight0658/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/starlight0658/ticket-lifecycle)
 

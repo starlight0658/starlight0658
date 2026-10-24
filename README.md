@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Our Subscription and First Resource](https://github.com/starlight0658/Creating-Our-Subscription-and-First-Resource)
   - [Azure Compute and Networking](https://github.com/starlight0658/Azure-Compute-And-Networking)
+- [osTicket — Prerequisites and Installation (Lab 3)](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) — Azure-hosted Windows help desk deployment using IIS, PHP, MySQL, HeidiSQL, and 51 timestamped evidence screenshots.
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/starlight0658/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/starlight0658/azure-network-protocols)
 

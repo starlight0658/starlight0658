@@ -9,7 +9,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/starlight0658/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket — Prerequisites and Installation](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) 
+  - [osTicket: Prerequisites and Installation](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) 
   - [osTicket: Post-Installation Configuration](https://github.com/starlight0658/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/starlight0658/ticket-lifecycle)
 

@@ -19,3 +19,7 @@
 [<img align="left" alt="Andrei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
+
+## IT Support & Help Desk Labs
+
+- [osTicket: Post-Installation Configuration](https://github.com/starlight0658/osTicket-Post-Installation-Configuration) — RBAC roles, departments, agents, teams, SLAs, and help topics in a self-hosted osTicket help desk.

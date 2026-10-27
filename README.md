@@ -12,6 +12,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) 
   - [osTicket: Post-Installation Configuration](https://github.com/starlight0658/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/starlight0658/osTicket-Ticket-Lifecycle-Examples)
+ 
+- <b>Networking and VPN labs</b>
+
+- **[VPN: VPN Setup and Usage](https://github.com/starlight0658/VPN-Setup-And-Usage)** — Azure VM provisioning, Proton VPN, public-IP comparison, regional browsing tests, and resource cleanup.
 
 <h2>🤳Connect with me:</h2>
 
@@ -20,6 +24,4 @@
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
-## Networking and VPN Labs
 
-- **[VPN: VPN Setup and Usage](https://github.com/starlight0658/VPN-Setup-And-Usage)** — Azure VM provisioning, Proton VPN, public-IP comparison, regional browsing tests, and resource cleanup.

@@ -5,9 +5,10 @@
 - <b>Microsoft Azure</b>
   - [Creating Our Subscription and First Resource](https://github.com/starlight0658/Creating-Our-Subscription-and-First-Resource)
   - [Azure Compute and Networking](https://github.com/starlight0658/Azure-Compute-And-Networking)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/starlight0658/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/starlight0658/azure-network-protocols)
-
+ 
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/starlight0658/Preparing-AD-Infrastructure-in-Azure)
+ 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) 
   - [osTicket: Post-Installation Configuration](https://github.com/starlight0658/osTicket-Post-Installation-Configuration)
@@ -16,8 +17,7 @@
 - <b>Networking and VPN labs</b>
   - [VPN: VPN Setup and Usage](https://github.com/starlight0658/VPN-Setup-And-Usage)
  
-- <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure in Azure](https://github.com/starlight0658/Preparing-AD-Infrastructure-in-Azure)
+
 
 
 <h2>🤳Connect with me:</h2>

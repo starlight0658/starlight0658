@@ -15,16 +15,14 @@
  
 - <b>Networking and VPN labs</b>
   - [VPN: VPN Setup and Usage](https://github.com/starlight0658/VPN-Setup-And-Usage)
+ 
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/starlight0658/Preparing-AD-Infrastructure-in-Azure)
+
 
 <h2>🤳Connect with me:</h2>
-
 
 [<img align="left" alt="Andrei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
-
-
-### Azure — Preparing Active Directory Infrastructure
-
-[**Preparing Active Directory Infrastructure in Azure**](https://github.com/starlight0658/Preparing-AD-Infrastructure-in-Azure) — Deployed Azure Windows Server and Windows 11 VMs on a shared VNet, configured static server IP and client DNS, and verified network connectivity with PowerShell. Includes 43 original screenshots.

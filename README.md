@@ -24,3 +24,7 @@
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
 
+
+### Azure — Preparing Active Directory Infrastructure
+
+[**Preparing Active Directory Infrastructure in Azure**](https://github.com/starlight0658/Preparing-AD-Infrastructure-in-Azure) — Deployed Azure Windows Server and Windows 11 VMs on a shared VNet, configured static server IP and client DNS, and verified network connectivity with PowerShell. Includes 43 original screenshots.

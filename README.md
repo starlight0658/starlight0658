@@ -26,3 +26,7 @@
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
+
+### Azure / Windows Server — Active Directory Deployment
+
+[**Active Directory Deployment**](https://github.com/starlight0658/Active-Directory-Deployment) — Installed Active Directory Domain Services and DNS, configured a domain controller and admin account, created OUs, and domain-joined a Windows 11 client. Includes 50 evidence screenshots.

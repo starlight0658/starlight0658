@@ -29,3 +29,4 @@
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
+- [**DNS: A Records, Local DNS Cache & CNAME Records**](https://github.com/starlight0658/DNS-A-Record-Local-DNS-Cache-CNAME-Record) — Windows Server DNS troubleshooting, A/CNAME records, local DNS cache and Hosts-file tests (31 screenshots).

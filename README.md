@@ -22,7 +22,9 @@
  
 - <b>Domain Name System</b>
   - [DNS: A-Records, Local DNS Cache & CNAME Records](https://github.com/starlight0658/DNS-A-Record-Local-DNS-Cache-CNAME-Record)
- 
+
+ - <b>Network File Shares and Permissions</b>
+  - [Network File Shares and Permissions](https://github.com/starlight0658/Network-File-Shares-and-Permissions)
 
 
 <h2>🤳Connect with me:</h2>
@@ -31,8 +33,3 @@
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
-
-
-### Network File Shares and Permissions
-
-[**Network File Shares and Permissions**](https://github.com/starlight0658/Network-File-Shares-and-Permissions) — Windows Server SMB sharing, Domain Users vs. Domain Admins permissions, AD security group-based access, and 30 screenshots of access testing and troubleshooting.

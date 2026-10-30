@@ -21,7 +21,7 @@
   - [VPN: VPN Setup and Usage](https://github.com/starlight0658/VPN-Setup-And-Usage)
  
 - <b>Domain Name System</b>
-  - [DNS: A Records, Local DNS Cache & CNAME Records](https://github.com/starlight0658/DNS-A-Record-Local-DNS-Cache-CNAME-Record)
+  - [DNS: A-Records, Local DNS Cache & CNAME Records](https://github.com/starlight0658/DNS-A-Record-Local-DNS-Cache-CNAME-Record)
  
 
 

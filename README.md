@@ -9,6 +9,7 @@
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/starlight0658/Preparing-AD-Infrastructure-in-Azure)
   - [Active Directory Deployment](https://github.com/starlight0658/Active-Directory-Deployment)
+  - [Creating Users with PowerShell](https://github.com/starlight0658/Creating-Users-with-PowerShell)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) 
@@ -27,6 +28,3 @@
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
-### Azure / Windows Server — Creating Users with PowerShell
-
-[**Creating Users with PowerShell**](https://github.com/starlight0658/Creating-Users-with-PowerShell) — Automated Active Directory user creation with PowerShell, verified users and group membership in ADUC, configured standard-user RDP access, and tested Windows 11 domain sign-in. Includes 23 evidence screenshots.

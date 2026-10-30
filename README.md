@@ -25,6 +25,7 @@
 
  - <b>Network File Shares and Permissions</b>
    - [Network File Shares and Permissions](https://github.com/starlight0658/Network-File-Shares-and-Permissions)
+   - [File Permissions with Google Drive](https://github.com/starlight0658/File-Permissions-with-Google-Drive)
 
 
 <h2>🤳Connect with me:</h2>
@@ -32,8 +33,3 @@
 [<img align="left" alt="Andrei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
-
-
-### File Permissions with Google Drive
-
-[**File Permissions with Google Drive**](https://github.com/starlight0658/File-Permissions-with-Google-Drive) — Hands-on permission testing with Google Drive, Docs, and Sheets: Viewer/Editor/Restricted access, folder sharing, private-browser validation, and named-user permissions. Includes 24 anonymized screenshots.

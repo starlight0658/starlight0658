@@ -10,6 +10,7 @@
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/starlight0658/Preparing-AD-Infrastructure-in-Azure)
   - [Active Directory Deployment](https://github.com/starlight0658/Active-Directory-Deployment)
   - [Creating Users with PowerShell](https://github.com/starlight0658/Creating-Users-with-PowerShell)
+  - [Group Policy and Managing Accounts](https://github.com/starlight0658/Group-Policy-and-Managing-Accounts) 
  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/starlight0658/osTicket-Prerequisites-and-Installation) 

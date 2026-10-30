@@ -33,3 +33,7 @@
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
 
+
+### File Permissions with Google Drive
+
+[**File Permissions with Google Drive**](https://github.com/starlight0658/File-Permissions-with-Google-Drive) — Hands-on permission testing with Google Drive, Docs, and Sheets: Viewer/Editor/Restricted access, folder sharing, private-browser validation, and named-user permissions. Includes 24 anonymized screenshots.

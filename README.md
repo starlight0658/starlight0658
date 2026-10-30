@@ -24,7 +24,7 @@
   - [DNS: A-Records, Local DNS Cache & CNAME Records](https://github.com/starlight0658/DNS-A-Record-Local-DNS-Cache-CNAME-Record)
 
  - <b>Network File Shares and Permissions</b>
-  - [Network File Shares and Permissions](https://github.com/starlight0658/Network-File-Shares-and-Permissions)
+   - [Network File Shares and Permissions](https://github.com/starlight0658/Network-File-Shares-and-Permissions)
 
 
 <h2>🤳Connect with me:</h2>

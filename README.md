@@ -26,3 +26,7 @@
 [<img align="left" alt="Andrei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/andrei-shadrin-81213848
+
+### Azure / Windows Server — Creating Users with PowerShell
+
+[**Creating Users with PowerShell**](https://github.com/starlight0658/Creating-Users-with-PowerShell) — Automated Active Directory user creation with PowerShell, verified users and group membership in ADUC, configured standard-user RDP access, and tested Windows 11 domain sign-in. Includes 23 evidence screenshots.
